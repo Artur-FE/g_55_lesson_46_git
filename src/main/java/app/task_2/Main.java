@@ -6,5 +6,6 @@ public class Main {
         // Новый функционал задачи 2
 
         System.out.println("Задача №2");
+
     }
 }
